@@ -1,0 +1,10 @@
+.online {
+  position: absolute;
+  background-color: rosybrown;
+  transform: rotate(-45deg) translateX(-25px) translateY(-10px);
+  color: whitesmoke;
+  box-shadow: 1px 1px black;
+  text-shadow: 1px 1px black;
+  padding: 0px 20px;
+
+}
